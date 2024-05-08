@@ -29,4 +29,7 @@ And it does the same and tries all the combination then it starts to
 backtrack to the optimal sequence of cities that suits the given budget
 
 
-![image](https://github.com/adham208/Recommendation-system/assets/68466492/2c1f5282-1bb3-49a7-af36-e8211784af61)
+![image](https://github.com/adham208/Recommendation-system/assets/68466492/964cdcaa-f41c-40f4-b3bb-b208769418ad)
+
+![image](https://github.com/adham208/Recommendation-system/assets/68466492/1d80feb5-a446-4132-8f18-de67192bf949)
+
